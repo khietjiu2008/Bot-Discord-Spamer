@@ -10,7 +10,7 @@
 <meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
 <meta name="og:description" content="A compact and easy configurable Discord-spammer selfbot with multi-token support."/>
 
-<h1>Spammer; Discord-spammer selfbot</h1>
+<h1>Spammer; Discord-spammer</h1>
 
 A compact and easy configurable Discord-spammer selfbot with multi-token support.</br>
 [![Support Server](https://img.shields.io/badge/Support_Server-000?style=for-the-badge&logo=&color=informational)](https://discord.gg/tXa2Hw5jHy)
