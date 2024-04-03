@@ -1,0 +1,6 @@
+{
+    "logWebhook": "",
+    "Prefix":"!",
+    "spamSpeed": 3000,
+    "debug": false
+}
