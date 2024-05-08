@@ -45,7 +45,7 @@ async function start() {
 }
 async function loginAndStart(token) {
     if (!token) {
-        console.log("Token hoặc API của bạn hết hạn. Liên hệ T.me/K68XY");
+        console.log("Token hoặc API của bạn hết hạn. Liên hệ T.me/KaiyoDev");
         return;
     }
 
