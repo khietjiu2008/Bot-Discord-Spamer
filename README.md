@@ -2,29 +2,13 @@
 
 <meta name="keywords" content="Poketwo, Poketwo AutoCatcher, Poketwo Hack, poketwo selfbot, Poketwo vote, poketwo discord bot, poketwo bot, premium, poketwo commands, Safe autocatcher, catch pokemon, poketwo-hack, poketwo-autocatcher, youtube, poketwo free, poketwo paid, mass trade, github, mass-release, auto-vote, accurate,poketwo official server, poketwo auto catcher, poketwo helper bot, poketwo hack, poketwo rich, poketwo cheat, download,poketwo coins, poketwo shiny, online, how-to-get-rich-in-poketwo , kyan, Fuzzy, AI, Poketwo , latest, 2021, working, 2022"/>
 
-<meta name="author" content="kyan0045"/>
-<meta name="url" content="https://github.com/kyan0045/CatchTwo" />
-<meta name="og:title" content="Spammer; Discord-Spammer selfbot"/>
-<meta name="google-site-verification" content="premium best" />
-<meta name="og:url" content="https://github.com/kyan0045/Spammer" />
-<meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
-<meta name="og:description" content="A compact and easy configurable Discord-spammer selfbot with multi-token support."/>
-
-<h1>Spammer; Discord-spammer</h1>
-
-A compact and easy configurable Discord-spammer selfbot with multi-token support.</br>
-[![Support Server](https://img.shields.io/badge/Support_Server-000?style=for-the-badge&logo=&color=informational)](https://discord.gg/tXa2Hw5jHy)
-![Version](https://img.shields.io/badge/Version-1.1.0-000?style=for-the-badge&logo=&color=informational)
-[![Stargazers](https://img.shields.io/github/stars/kyan0045/Spammer?style=for-the-badge&logo=&color=blue)](https://github.com/kyan0045/Spammer/stargazers)
-[![Forks](https://img.shields.io/github/forks/kyan0045/Spammer?style=for-the-badge&logo=&color=blue)](https://github.com/kyan0045/Spammer/network/members)
-[![Issues](https://img.shields.io/github/issues/kyan0045/Spammer?style=for-the-badge&logo=&color=informational)](https://github.com/kyan0045/Spammer/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/kyan0045/Spammer?style=for-the-badge&logo=&color=informational)](https://github.com/kyan0045/Spammer/pulls)
-<a href="https://replit.com/new/github/kyan0045/Spammer"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Deploy on replit" /></a>
-
+<meta name="author" content="KaiyoDev"/>
 
 
 <h2>About</h2>
-A compact and easy configurable Discord-spammer selfbot with multi-token support.
+Vi: Đây là dự án mang tính chất học tập nghiêm cấp vi phạm pháp luật tôi hoàn toàn không chiụ trách nhiệm.
+
+En: This is a serious academic project that violates the law and I am not responsible at all.
 
 <h2 align="left">Features</h2>
 
@@ -50,12 +34,12 @@ A compact and easy configurable Discord-spammer selfbot with multi-token support
   3. Run the following commands in your shell/console:</br>
 
   ```bash
-  git clone https://github.com/kyan0045/spammer.git
+  git clone https://github.com/KaiyoDev/Bot-Discord-Spamer.git
   ```
   Note: You can also download the files using other methods.
 
   ```bash
-  cd spammer
+  cd Bot-Discord-Spamer
   ```
 
   ```bash
@@ -69,7 +53,6 @@ A compact and easy configurable Discord-spammer selfbot with multi-token support
   ```
 </details>
 <details><summary>Replit Setup</summary>
-  <a href="https://replit.com/new/github/kyan0045/Spammer"><img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Deploy on replit" /></a></br>
   1. Run the following commands in your shell/console:</br>
   
   ```bash
@@ -89,14 +72,14 @@ A compact and easy configurable Discord-spammer selfbot with multi-token support
 
 ### Token Format
 ```
-Token1 spamChannelId1
-Token2 spamChannelId2
+Token1 
+Token2 
 ``` 
 - Use a space to seperate the spamChannelId from the token.
 
 
 ## Contributing
-Pull requests & suggestions are always welcome! For major changes, please open an issue/DM me on Discord first (@kyan0045) to discuss what you would like to change and to what extend.
+I sincerely thank the team who helped me create this project @kyan0045 @KaiyoDev
 
 ## License
 [BSD](./LICENSE)
